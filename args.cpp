@@ -28,7 +28,7 @@ using namespace std;
 
         int display2(const int * arr , int n) // Trivial conversion .  
 
-
+  
     (ii) Look for generic function if defined . 
 
 
