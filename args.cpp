@@ -91,7 +91,7 @@ int main()
     // No exact match and no generic functions also thus look for promotion and it promote to double.  
     #endif 
 
-    #if 0
+    #if 0 // set to 1 run this portion 
     // Now firstly comment this square(int) function and run this  
     square('a');
     // Lets discuss the above line 
