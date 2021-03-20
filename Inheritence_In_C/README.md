@@ -1,6 +1,7 @@
 This is a code which implements inheritence in C 
 
-gcc -c client.c 
-gcc -c server.c 
-gcc client.o server.o 
-./a.out
+<code>gcc -c client.c</code><br>
+<code>gcc -c server.c</code><br> 
+<code>gcc client.o server.o</code><br> 
+<code>./a.out</code>
+
